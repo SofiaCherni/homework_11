@@ -284,7 +284,7 @@ img {
 }
 .lightbox-block .lightbox-gallery__block img {
   width: 100%;
-  height: 180px;
+  aspect-ratio: 3/2;
 }
 .lightbox-block .lightbox-gallery__block a {
   padding: 10px;
